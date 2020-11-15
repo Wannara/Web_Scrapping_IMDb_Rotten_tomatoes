@@ -1,0 +1,101 @@
+,Title,Years,RunTime,Genre,Rating,R,Votes,Gross
+1,The Shawshank Redemption,1994,142,['Drama'],9.3,R,"2,293,043",$28.34M
+2,The Godfather,1972,175,"['Crime', ' Drama']",9.2,R,"1,582,807",$134.97M
+3,The Godfather: Part II,1974,202,"['Crime', ' Drama']",9,R,"1,105,811",$57.30M
+4,The Dark Knight,2008,152,"['Action', ' Crime', ' Drama']",9,PG-13,"2,258,091",$534.86M
+5,12 Angry Men,1957,96,"['Crime', ' Drama']",8.9,Approved,"673,640",$4.36M
+6,Schindler's List,1993,195,"['Biography', ' Drama', ' History']",8.9,R,"1,190,394",$96.90M
+7,The Lord of the Rings: The Return of the King,2003,201,"['Action', ' Adventure', ' Drama']",8.9,PG-13,"1,612,731",$377.85M
+8,Pulp Fiction,1994,154,"['Crime', ' Drama']",8.9,R,"1,790,766",$107.93M
+9,"The Good, the Bad and the Ugly",1966,178,['Western'],8.8,R,"676,462",$6.10M
+10,Fight Club,1999,139,['Drama'],8.8,R,"1,818,208",$37.03M
+11,Joker,2019,122,"['Crime', ' Drama', ' Thriller']",8.5,R,"879,359",$335.45M
+12,The Lord of the Rings: The Fellowship of the Ring,2001,178,"['Action', ' Adventure', ' Drama']",8.8,PG-13,"1,628,469",$315.54M
+13,Forrest Gump,1994,142,"['Drama', ' Romance']",8.8,PG-13,"1,767,071",$330.25M
+14,Inception,2010,148,"['Action', ' Adventure', ' Sci-Fi']",8.8,PG-13,"2,020,160",$292.58M
+15,Star Wars: Episode V - The Empire Strikes Back,1980,124,"['Action', ' Adventure', ' Fantasy']",8.7,PG,"1,138,107",$290.48M
+16,The Lord of the Rings: The Two Towers,2002,179,"['Action', ' Adventure', ' Drama']",8.7,PG-13,"1,457,561",$342.55M
+17,The Matrix,1999,136,"['Action', ' Sci-Fi']",8.7,R,"1,642,048",$171.48M
+18,One Flew Over the Cuckoo's Nest,1975,133,['Drama'],8.7,R,"899,656",$112.00M
+19,Goodfellas,1990,146,"['Biography', ' Crime', ' Drama']",8.7,R,"998,310",$46.84M
+20,Seven Samurai,1954,207,"['Action', ' Adventure', ' Drama']",8.6,Not Rated,"310,069",$0.27M
+21,Se7en,1995,127,"['Crime', ' Drama', ' Mystery']",8.6,R,"1,412,130",$100.13M
+22,City of God,2002,130,"['Crime', ' Drama']",8.6,R,"689,052",$7.56M
+23,Life Is Beautiful,1997,116,"['Comedy', ' Drama', ' Romance']",8.6,PG-13,"609,867",$57.60M
+24,The Silence of the Lambs,1991,118,"['Crime', ' Drama', ' Thriller']",8.6,R,"1,242,892",$130.74M
+25,Star Wars: Episode IV - A New Hope,1977,121,"['Action', ' Adventure', ' Fantasy']",8.6,PG,"1,209,888",$322.74M
+26,It's a Wonderful Life,1946,130,"['Drama', ' Family', ' Fantasy']",8.6,PG,"390,471",
+27,Saving Private Ryan,1998,169,"['Drama', ' War']",8.6,R,"1,211,275",$216.54M
+28,Spirited Away,2001,125,"['Animation', ' Adventure', ' Family']",8.6,PG,"632,548",$10.06M
+29,The Green Mile,1999,189,"['Crime', ' Drama', ' Fantasy']",8.6,R,"1,120,680",$136.80M
+30,Léon: The Professional,1994,110,"['Action', ' Crime', ' Drama']",8.5,R,"1,014,113",$19.50M
+31,Harakiri,1962,133,"['Action', ' Drama', ' Mystery']",8.6,Not Rated,"38,569",
+32,Interstellar,2014,169,"['Adventure', ' Drama', ' Sci-Fi']",8.6,PG-13,"1,466,004",$188.02M
+33,The Usual Suspects,1995,106,"['Crime', ' Mystery', ' Thriller']",8.5,R,"974,287",$23.34M
+34,The Lion King,1994,88,"['Animation', ' Adventure', ' Drama']",8.5,G,"922,849",$422.78M
+35,American History X,1998,119,['Drama'],8.5,R,"1,019,026",$6.72M
+36,Back to the Future,1985,116,"['Adventure', ' Comedy', ' Sci-Fi']",8.5,PG,"1,034,790",$210.61M
+37,The Pianist,2002,150,"['Biography', ' Drama', ' Music']",8.5,R,"712,868",$32.57M
+38,Modern Times,1936,87,"['Comedy', ' Drama', ' Family']",8.5,G,"212,987",$0.16M
+39,Terminator 2: Judgment Day,1991,137,"['Action', ' Sci-Fi']",8.5,R,"979,977",$204.84M
+40,The Intouchables,2011,112,"['Biography', ' Comedy', ' Drama']",8.5,R,"741,497",$13.18M
+41,Psycho,1960,109,"['Horror', ' Mystery', ' Thriller']",8.5,R,"591,400",$32.00M
+42,Gladiator,2000,155,"['Action', ' Adventure', ' Drama']",8.5,R,"1,315,689",$187.71M
+43,City Lights,1931,87,"['Comedy', ' Drama', ' Romance']",8.5,G,"164,093",$0.02M
+44,The Departed,2006,151,"['Crime', ' Drama', ' Thriller']",8.5,R,"1,166,446",$132.38M
+45,Whiplash,2014,106,"['Drama', ' Music']",8.5,R,"696,571",$13.09M
+46,Once Upon a Time in the West,1968,165,['Western'],8.5,PG-13,"297,404",$5.32M
+47,The Prestige,2006,130,"['Drama', ' Mystery', ' Sci-Fi']",8.5,PG-13,"1,163,945",$53.09M
+48,Avengers: Endgame,2019,181,"['Action', ' Adventure', ' Drama']",8.4,PG-13,"770,403",$858.37M
+49,Casablanca,1942,102,"['Drama', ' Romance', ' War']",8.5,PG,"513,061",$1.02M
+50,Grave of the Fireflies,1988,89,"['Animation', ' Drama', ' War']",8.5,Not Rated,"227,959",
+51,Rear Window,1954,112,"['Mystery', ' Thriller']",8.4,PG,"435,422",$36.76M
+52,Cinema Paradiso,1988,155,['Drama'],8.5,R,"225,010",$11.99M
+53,Alien,1979,117,"['Horror', ' Sci-Fi']",8.4,R,"773,538",$78.90M
+54,Raiders of the Lost Ark,1981,115,"['Action', ' Adventure']",8.4,PG,"869,749",$248.16M
+55,Memento,2000,113,"['Mystery', ' Thriller']",8.4,R,"1,106,159",$25.54M
+56,Apocalypse Now,1979,147,"['Drama', ' Mystery', ' War']",8.4,R,"594,732",$83.47M
+57,The Great Dictator,1940,125,"['Comedy', ' Drama', ' War']",8.4,Passed,"198,906",$0.29M
+58,The Lives of Others,2006,137,"['Drama', ' Mystery', ' Thriller']",8.4,R,"351,864",$11.29M
+59,Avengers: Infinity War,2018,149,"['Action', ' Adventure', ' Sci-Fi']",8.4,PG-13,"805,438",$678.82M
+60,Django Unchained,2012,165,"['Drama', ' Western']",8.4,R,"1,326,937",$162.81M
+61,Spider-Man: Into the Spider-Verse,2018,117,"['Animation', ' Action', ' Adventure']",8.4,PG,"343,132",$190.24M
+62,The Shining,1980,146,"['Drama', ' Horror']",8.4,R,"876,128",$44.02M
+63,Paths of Glory,1957,88,"['Drama', ' War']",8.4,Approved,"174,158",
+64,WALL·E,2008,98,"['Animation', ' Adventure', ' Family']",8.4,G,"980,203",$223.81M
+65,Sunset Blvd.,1950,110,"['Drama', ' Film-Noir']",8.4,Passed,"197,468",
+66,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,['Comedy'],8.4,PG,"443,435",$0.28M
+67,Princess Mononoke,1997,134,"['Animation', ' Adventure', ' Fantasy']",8.4,PG-13,"334,055",$2.38M
+68,Oldboy,2003,120,"['Action', ' Drama', ' Mystery']",8.4,R,"504,427",$0.71M
+69,Witness for the Prosecution,1957,116,"['Crime', ' Drama', ' Mystery']",8.4,Approved,"105,828",$8.18M
+70,The Dark Knight Rises,2012,164,"['Action', ' Adventure']",8.4,PG-13,"1,489,727",$448.14M
+71,Once Upon a Time in America,1984,229,"['Crime', ' Drama']",8.4,R,"304,578",$5.32M
+72,Parasite,2019,132,"['Comedy', ' Drama', ' Thriller']",8.6,R,"490,801",$53.37M
+73,Aliens,1986,137,"['Action', ' Adventure', ' Sci-Fi']",8.3,R,"642,765",$85.16M
+74,American Beauty,1999,122,['Drama'],8.3,R,"1,053,783",$130.10M
+75,Coco,I 2017,105,"['Animation', ' Adventure', ' Family']",8.4,PG,"358,155",$209.73M
+76,Your Name.,2016,106,"['Animation', ' Drama', ' Fantasy']",8.4,PG,"182,510",$5.02M
+77,Braveheart,1995,178,"['Biography', ' Drama', ' History']",8.3,R,"945,653",$75.60M
+78,Das Boot,1981,149,"['Adventure', ' Drama', ' Thriller']",8.3,R,"227,864",$11.49M
+79,3 Idiots,2009,170,"['Comedy', ' Drama']",8.4,PG-13,"335,002",$6.53M
+80,Taare Zameen Par,2007,165,"['Drama', ' Family']",8.4,PG,"163,516",$1.22M
+81,Star Wars: Episode VI - Return of the Jedi,1983,131,"['Action', ' Adventure', ' Fantasy']",8.3,PG,"932,856",$309.13M
+82,Toy Story,1995,81,"['Animation', ' Adventure', ' Comedy']",8.3,G,"869,585",$191.80M
+83,Reservoir Dogs,1992,99,"['Crime', ' Drama', ' Thriller']",8.3,R,"901,713",$2.83M
+84,Amadeus,1984,160,"['Biography', ' Drama', ' History']",8.3,R,"363,037",$51.97M
+85,Dangal,2016,161,"['Action', ' Biography', ' Drama']",8.4,Not Rated,"149,867",$12.39M
+86,Good Will Hunting,1997,126,"['Drama', ' Romance']",8.3,R,"843,068",$138.43M
+87,Inglourious Basterds,2009,153,"['Adventure', ' Drama', ' War']",8.3,R,"1,237,971",$120.54M
+88,M,1931,99,"['Crime', ' Mystery', ' Thriller']",8.3,Passed,"140,491",$0.03M
+89,Requiem for a Dream,2000,102,['Drama'],8.3,R,"752,813",$3.64M
+90,2001: A Space Odyssey,1968,149,"['Adventure', ' Sci-Fi']",8.3,G,"591,712",$56.95M
+91,Vertigo,1958,128,"['Mystery', ' Romance', ' Thriller']",8.3,PG,"355,997",$3.20M
+92,Eternal Sunshine of the Spotless Mind,2004,108,"['Drama', ' Romance', ' Sci-Fi']",8.3,R,"895,367",$34.40M
+93,Citizen Kane,1941,119,"['Drama', ' Mystery']",8.3,PG,"391,812",$1.59M
+94,Full Metal Jacket,1987,116,"['Drama', ' War']",8.3,R,"662,321",$46.36M
+95,The Hunt,2012,115,['Drama'],8.3,R,"272,124",$0.69M
+96,North by Northwest,1959,136,"['Adventure', ' Mystery', ' Thriller']",8.3,Approved,"293,760",$13.28M
+97,A Clockwork Orange,1971,136,"['Crime', ' Drama', ' Sci-Fi']",8.3,R,"744,452",$6.21M
+98,Snatch,2000,102,"['Comedy', ' Crime']",8.3,R,"770,156",$30.33M
+99,Amélie,2001,122,"['Comedy', ' Romance']",8.3,R,"693,492",$33.23M
+100,The Kid,1921,68,"['Comedy', ' Drama', ' Family']",8.3,Passed,"110,265",$5.45M
